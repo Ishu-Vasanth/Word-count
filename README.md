@@ -35,8 +35,16 @@ wordcount(filename)
 ```
 ## OUTPUT:
 Text file "File1.txt":
+
+
 ![GitHub Logo](output1.jpg)
+
+
 ## Output of the code:
+
+
 ![GitHub Logo](output2.jpg)
+
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
